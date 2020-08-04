@@ -13,7 +13,7 @@ const admin = require('firebase-admin');
 // }
 // admin.initializeApp({
 //   credential: admin.credential.cert(serviceAccount)
-// });
+// }); 
 // const db = admin.firestore();
 
 
@@ -43,9 +43,9 @@ app.get('/', (req, res) => {
 
 
 // Webhook URLs
-const prodSecretURL = process.env.PORT ? process.env.prodSecretURL : fs.readFileSync(`${__dirname}/private/webhook.txt`).toString();
-const prodRealURL = process.env.prodRealURL;
-app.webhookURL = prodRealURL;
+// const prodSecretURL = process.env.PORT ? process.env.prodSecretURL : fs.readFileSync(`${__dirname}/private/webhook.txt`).toString();
+const prodURL = process.env.prodURL;
+app.webhookURL = prodURL;
 
 // Set questions
 app.qs = require('./questions/qs-quarantine-hobbies.js');
