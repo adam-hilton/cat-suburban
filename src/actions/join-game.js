@@ -8,7 +8,7 @@ const sendMessageToSlack = require('../helpers/send-message-to-slack.js');
 
 module.exports = function joinGame(app, actionJSONPayload) {
 
-  if (!app.game) return;
+  if (!app.game) return console.log("no game")
   if (app.game.ended || app.game.stopped) return console.log('Not joining - game has stopped');
 
   const username = actionJSONPayload.user.name;
