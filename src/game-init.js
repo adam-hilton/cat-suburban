@@ -112,7 +112,7 @@ module.exports = function gameInit(app) {
     sendMessageToSlack(app.webhookURL, {
       'attachments': [
         {
-          'pretext': '<!channel> :megaphone: *Game Alert* :siren:\n',
+          'pretext': '<!channel> :announcement: *Game Alert* :siren-flash:\n',
           'color': '#f24308',
           'text': formattedMessage,
           'mrkdwn_in': ['text', 'pretext']
