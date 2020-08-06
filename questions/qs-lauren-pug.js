@@ -12,7 +12,7 @@ module.exports = {
       answer: 'd'
     },
     {
-      question: 'The "perfect" pug has this feature (though they are all perfect): ',
+      question: 'The "perfect" pug has this feature: ',
       a: 'two curls in their tail',
       b: 'black shadowing near ears',
       c: 'eyes placed 3 inches apart',
@@ -44,19 +44,19 @@ module.exports = {
       answer: 'a'
     },
     {
-      question: 'Who is the cutest, bestest, sweetest pug that ever existed?',
-      a: 'Doug the Pug',
-      b: 'Mr.Pickles the Pug',
-      c: 'Frank, from Men in Black',
-      d: 'Otis',
+      question: 'What animals were called pugs prior to the dog breed?',
+      a: 'Donkeys',
+      b: 'Marmosets',
+      c: 'Bison',
+      d: 'Crocodiles',
       answer: 'b'
     },
     {
-      question: 'If Mr.Pickles was a type of pickle, he would be this kind: ',
-      a: 'Sweet gherkin pickle',
-      b: 'Spicy dill',
-      c: 'Bread & Butter ',
-      d: 'Just a cucumber',
+      question: 'What 18th century group formed the secret fraternal Order of the Pug?',
+      a: 'Roman Catholics',
+      b: 'Qing Dynasty',
+      c: 'Fulani nomads',
+      d: 'Prussians',
       answer: 'a'
     },
     {
@@ -68,19 +68,19 @@ module.exports = {
       answer: 'd'
     },
     {
-      question: 'How many pounds overweight is Mr.Pickles?',
-      a: 'he is perfect',
-      b: '2 lbs',
-      c: '5 lbs',
-      d: '7 lbs',
+      question: 'Chinese breeders aimed to create a pattern on the pugs forehead that resembled the Chinese character for what English word?',
+      a: 'king',
+      b: 'prince',
+      c: 'jester',
+      d: 'barky',
       answer: 'b'
     },
     {
-      question: 'What is Mr.Pickles favorite treat? You can often find Marcus feeding him this.',
-      a: 'carrots',
-      b: 'bananas',
-      c: 'raspberries',
-      d: 'blueberries',
+      question: 'Which of these is a pug most likely to do?',
+      a: 'drool',
+      b: 'dig holes',
+      c: 'need constant exercise',
+      d: 'snore',
       answer: 'd'
     }
   ]

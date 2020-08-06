@@ -1,5 +1,29 @@
 module.exports = [
-  'showed up to the office wearing non-matching shoes', 'is :a-is-better:', 'is :accenture-hand:', 'is :acn-news:', 'is :awcc:', 'is :awk-cauldron:', 'is :awk-fist:', 'is :awk-sassy-dance:', 'is :awk-seal-with-it:', 'is :ayoo:', 'is :banana-for-scale:', 'is :brie-df:', 'is :classic-accenture:', 'is :dog-tay:', 'is :dumbass:', 'is :flawless:', 'is :floating-pizzas:', 'is :godzilla-rage:', 'is :jvn:', 'is :luv-cry:', 'is :oh-god-lauren:', 'is :party-awk:', 'is :party-racoon:', 'is :raya:', 'is :roombawk:', 'is :sean-giggle:', 'is :stomping-parrot:', 'is :awk-fam:', 'is :svb-fam:', 'is :tina-dance:'
+  // 'showed up to the office wearing non-matching shoes', 'is :a-is-better:', 'is :accenture-hand:', 'is :acn-news:', 'is :awcc:', 'is :awk-cauldron:', 'is :awk-fist:', 'is :awk-sassy-dance:', 'is :awk-seal-with-it:', 'is :ayoo:', 'is :banana-for-scale:', 'is :brie-df:', 'is :classic-accenture:', 'is :dog-tay:', 'is :dumbass:', 'is :flawless:', 'is :floating-pizzas:', 'is :godzilla-rage:', 'is :jvn:', 'is :luv-cry:', 'is :oh-god-lauren:', 'is :party-awk:', 'is :party-racoon:', 'is :raya:', 'is :roombawk:', 'is :sean-giggle:', 'is :stomping-parrot:', 'is :awk-fam:', 'is :svb-fam:', 'is :tina-dance:'
+  
+  // Whit Bday openers
+  'is still recovering from a jam session with Lisa Loeb last night',
+  'is tired of hearing abut Slack Trivia and is ready to DOMINATE',
+  'is dreaming of when we can all eat raw oysters in public again',
+  'is googling random geography facts to cram',
+  'is READY for the weekend',
+  'is having trouble remembering months, let alone birthdays',
+  'is makin it personal and takin it personal',
+  'is gonna hug so many strangers when the pandemic is finally over',
+  'doesn\'t know what\'s going on but is so happy to be here',
+  'already feels like a winner',
+  'is worried that this will all be Harry Potter trivia',
+  'is hoping that this will all be Harry Potter trivia',
+  'is recording this Zoom for :air-quotes-open: archival purposes :air-quotes-close:',
+  'is secretly influencing your answer through mind control',
+  'is just gettin\' by, so take it easy on them, ok?',
+  'has been waiting for this moment their entire life',
+  'is having a moment',
+  'is divining the answers from the gods of old',
+  'is getting their 4-monitor setup juuuuuuust right before the game',
+  'is playing while keeping their heart rate up to burn calories',
+
+  // // Kev BDay openers
   // 'gave Kevin more Hellboy statues to paint',
   // 'gave Kevin a $1000 gift certificate to End of an Ear',
   // 'gave Kevin an LOE task with absolutely no details included',
@@ -112,7 +136,7 @@ module.exports = [
 
 
 
-
+// // Ghoulie openers
 // 'is trapped in R. Kelly\'s closet',
 // 'is suspiciously never seen during the day and is allergic to garlic',
 // 'is hosting a BYOB seance later tonight',
