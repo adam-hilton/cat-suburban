@@ -48,7 +48,7 @@ const prodRealURL = process.env.prodRealURL;
 app.webhookURL = prodRealURL;
 
 // Set questions
-app.qs = require('./questions/qs-lauren-pug.js');
+app.qs = require('./questions/qs-jk-rowling-bad.js');
 
 
 gameInit(app);
